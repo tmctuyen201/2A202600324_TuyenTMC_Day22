@@ -1,11 +1,10 @@
 # Reflection — Lab 22 (DPO/ORPO Alignment)
 
-**Tên:** Lê Hồng Anh
-**Mã Sinh Viên:** 2A202600096
+**Tên:** TuyenTMC
+**Mã Sinh Viên:** 2A202600324
 **Cohort:** A20-K1
 **Tier đã chạy:** T4 (but run on A100 Lightning.ai)
 **Date:** 2026-05-08
-**Link Hugging Face**: https://huggingface.co/AnhLee0/Lab22/tree/main
 
 ---
 
@@ -108,7 +107,7 @@ Tuy nhiên, như đã học ở Bài Alignment Tax (deck §8.1), việc tinh ch�
 ## Bonus
 
 - [ ] Đã làm β-sweep (rigor add-on +6)
-- [x] Đã push lên HuggingFace Hub (Submission Option B, +5): Link repo Hugging Face: https://huggingface.co/AnhLee0/Lab22/tree/main
+- [ ] Đã push lên HuggingFace Hub (Submission Option B, +5)
 - [ ] Đã release GGUF với multiple quantizations (+3)
 - [ ] Đã link W&B run public (+2)
 - [ ] Đã làm cross-judge comparison (+4)
